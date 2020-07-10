@@ -1,10 +1,16 @@
 # sarathkumar
 
-Hi there wave
-“ In a time of drastic change it is the learners who inherit the future. The learned usually find themselves equipped to live in a world that no longer exists. ” - Eric Hoffer
-My life gist :
+<h3>Hi there 👋</h3>
 
+
+<h5>“ In a time of drastic change it is the learners who inherit the future. The learned usually find themselves equipped to live in a world that no longer exists. ”</h5> - Eric Hoffer
+5
+My life gist :
+6
+​
+7
 telescope I’m currently working on Innovative Labs, and trying to provide best content on web development for FREE.
+8
 books What do I beleive? Jack of all, Master of some.
 seedling I’m currently learning to manage my time, and be productive.
 dancers I’m looking to collaborate on any idea that impresses me.
