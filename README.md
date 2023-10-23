@@ -1,5 +1,5 @@
 # sarathkumar
-Hosting a Django Application on NGINX server on Digital ocean.-Apache Vs NGINX
+Python - Django Developer
 
 <h3>Hi there 👋</h3>
 
